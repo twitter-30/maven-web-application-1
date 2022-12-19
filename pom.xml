@@ -96,13 +96,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http:http://172.31.13.214:8181/mylandmarktech/repository/telsa-webapp-releases/</url>
+	      <url>http://3.141.3.25:8181/mylandmarktech/repository/telsa-webapp-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http:http://172.31.13.214:8181/mylandmarktech/repository/telsa-webapp-snapshots/</url>
+	      <url>http://3.141.3.25:8181/mylandmarktech/repository/telsa-webapp-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
